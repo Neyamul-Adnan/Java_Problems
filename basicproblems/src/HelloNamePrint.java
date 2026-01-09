@@ -1,4 +1,3 @@
-package com.basicproblems;
 
 public class HelloNamePrint{
     public static void main(String[] args){
